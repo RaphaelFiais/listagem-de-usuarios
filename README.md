@@ -32,10 +32,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/raphaelfiais/List.git
+$ git clone https://github.com/raphaelfiais/listagem-de-usuarios.git
 
 # Acesse a pasta do projeto
-$ cd List
+$ cd listagem-de-usuarios
 
 # Instale as dependências do front end
 cd list-front-end
